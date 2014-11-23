@@ -1,0 +1,8 @@
+*.o
+RegEx-DFA
+*.vim
+*.aux
+*.log
+*.out
+*.toc
+*.hi
